@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning post graduate degree in Big Data Analytics
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me .. Via linkedIn
+- 📫 How to reach me .. Via [linkedIn](https://www.linkedin.com/in/ganesh-chaulagain-59853a220/)
 
 <!---
 GaneshChaulagain/GaneshChaulagain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
